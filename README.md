@@ -1,6 +1,15 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
+<div align="center">
+  
+
+</div>
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=OmarSanjaq&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<h1 align="center"> 👋 Hi, I’m @OmarSanjaq </h1>
+<h1 align="center"> Hi, i'am <a href="https://github.com/OmarSanjaq">OmarSanjaq</a> <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=1B5F7C&background=7E7A7800&random=false&width=435&lines=Your+first+destination+for+your+web+pages" alt="Typing SVG" /></a>
+</h1>
 
 <div align="center">
   <a href="mailto:omar.sanjaq.2002@gmail.com" target="_blank">
@@ -69,6 +78,8 @@ Front-end web developer with a knack for crafting responsive, user-friendly webs
 [![trophy](https://github-profile-trophy.vercel.app/?username=OmarSanjaq&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 <br>
 
