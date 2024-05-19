@@ -18,9 +18,6 @@
   <a href="linkedin.com/in/omar-sanjaq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/2oma2r?igsh=MXdlMGQ2NmJxanZ2dg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
 </div>
 
 <h2>About Me</h2>
